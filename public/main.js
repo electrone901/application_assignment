@@ -1,3 +1,4 @@
+
 fetch('/quote')
   .then(r => r.json())
   .then(data => {
