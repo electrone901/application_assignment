@@ -1,4 +1,10 @@
 # Assignment
+## How to run this project
+To run this project:
+- clone this github project to your local machine
+- then on your terminal type:  npm install
+- then run it: node index.js
+
 
 ## Objectives
 
